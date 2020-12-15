@@ -187,3 +187,10 @@ color:#045762;
   background-image: linear-gradient(to bottom, #43d3e6, #1b96a1);
   text-decoration: none;
 }
+
+
+.footer-link:hover{
+
+color:#43d3e6;
+
+}
