@@ -6,7 +6,7 @@ body{
 
 .icon-image{
 
-  width: 300px;
+  width: 200px;
 }
 .space-nav{
   padding: 0 20px;
@@ -16,11 +16,16 @@ body{
   padding: 5% 17%;
 }
 #Contact-section .pads{
-  padding: 2% 17% 10%;
+  padding: 20% 17% 20%;
 }
 .Title-image{
 
-width: 500px;
+width: 600px;
+
+}
+label{
+
+  font-family: monospace;
 
 }
 
@@ -36,7 +41,7 @@ width: 500px;
   width:50%;
   color:white;
   margin: 0 auto;
-
+font-family: 'Montserrat', sans-serif;
 }
 
 .Rule{
@@ -83,12 +88,14 @@ width: 500px;
 
   width: 30%;
   margin: 0 auto;
-
+font-family: 'Montserrat', sans-serif;
 }
+
 /* social media */
 #Social-Links{
   background-color: #404040;
   color:white;
+  padding-top: 100px;
 }
 .Flashy:hover{
   color:#F8C822;
@@ -98,4 +105,22 @@ a{
   color:white;
   margin: 30px;;
 
+}
+.space{
+  padding: 20px 0;
+}
+
+@media (max-width:1028px) {
+.icon-image{
+
+width:150px;
+
+}
+.skill-img{
+  width: 200px;
+}
+
+.Title-image{
+  width: 500px;
+}
 }
