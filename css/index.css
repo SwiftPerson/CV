@@ -4,6 +4,12 @@ body{
 }
 
 
+h1,h2,h3,h4{
+
+      font-family: 'Anton', sans-serif;
+}
+
+
 .icon-image{
 
   width: 200px;
@@ -41,6 +47,7 @@ label{
   width:50%;
   color:white;
   margin: 0 auto;
+  font-size: 1rem;
 font-family: 'Montserrat', sans-serif;
 }
 
@@ -51,7 +58,7 @@ font-family: 'Montserrat', sans-serif;
   width: 4%;
   margin: 100px auto;
 }
-/* container section */
+/* contact section */
 
 #Contact-section{
   background: white;
@@ -62,6 +69,7 @@ font-family: 'Montserrat', sans-serif;
 }
 .Contact-Heading{
   font-weight: bold;
+  font-size: 2rem;
 }
 .Form-custom{
   display: inline-block;
@@ -73,6 +81,7 @@ font-family: 'Montserrat', sans-serif;
 .skill-H{
   padding-bottom: 5%;
   font-weight: bold;
+  font-size: 2rem;
 }
 .skill-img{
   width: 300px;
@@ -85,7 +94,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .skill-description{
-
+font-size: 1rem;
   width: 30%;
   margin: 0 auto;
 font-family: 'Montserrat', sans-serif;
@@ -110,6 +119,10 @@ a{
   padding: 20px 0;
 }
 
+.Heart:hover{
+  color:red;
+}
+
 @media (max-width:1028px) {
 .icon-image{
 
@@ -122,5 +135,34 @@ width:150px;
 
 .Title-image{
   width: 500px;
+}
+
+.Heading{
+  font-size: 3rem;
+
+}
+
+.description{
+
+font-size: 2rem;
+}
+.skill-description{
+width: 50%;
+font-size: 2rem;
+}
+.skill-H{
+
+  font-size: 3rem;
+
+}
+.skill-title{
+  font-size: 3rem;
+}
+.Contact-Heading{
+  font-size: 3rem;
+}
+
+.Heart{
+  color:red;
 }
 }
