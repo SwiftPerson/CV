@@ -1,0 +1,101 @@
+body{
+  background: black;
+  text-align: center;
+}
+
+
+.icon-image{
+
+  width: 300px;
+}
+.space-nav{
+  padding: 0 20px;
+}
+
+.pads{
+  padding: 5% 17%;
+}
+#Contact-section .pads{
+  padding: 2% 17% 10%;
+}
+.Title-image{
+
+width: 500px;
+
+}
+
+/* introduction */
+.Heading{
+  font-size: 2rem;
+  color:#F8C822;
+  margin-top: 5%;
+}
+
+.description{
+
+  width:50%;
+  color:white;
+  margin: 0 auto;
+
+}
+
+.Rule{
+
+  border: dotted #F8C822 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+/* container section */
+
+#Contact-section{
+  background: white;
+}
+.button-spacing{
+  margin:  5%;
+  padding: 0.5rem 3rem;
+}
+.Contact-Heading{
+  font-weight: bold;
+}
+.Form-custom{
+  display: inline-block;
+  padding: 0 2rem ;
+  margin-top: 6rem;
+}
+
+/* skill container */
+.skill-H{
+  padding-bottom: 5%;
+  font-weight: bold;
+}
+.skill-img{
+  width: 300px;
+  padding-bottom: 20px;
+}
+#Skill{
+  color:white;
+  padding: 0 0 10%;
+
+}
+
+.skill-description{
+
+  width: 30%;
+  margin: 0 auto;
+
+}
+/* social media */
+#Social-Links{
+  background-color: #404040;
+  color:white;
+}
+.Flashy:hover{
+  color:#F8C822;
+}
+a{
+
+  color:white;
+  margin: 30px;;
+
+}
