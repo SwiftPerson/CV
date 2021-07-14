@@ -2,10 +2,7 @@ window._wpemojiSettings = {
   "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/",
   "ext": ".png",
   "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/",
-  "svgExt": ".svg",
-  "source": {
-    "concatemoji": "https:\/\/cvio.bslthemes.com\/ve1\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"
-  }
+  "svgExt": ".svg"
 };
 ! function(e, a, t) {
   var r, n, o, i, p = a.createElement("canvas"),
@@ -258,7 +255,6 @@ window._wpemojiSettings = {
 })(jQuery);
 var wpcf7 = {
   "apiSettings": {
-    "root": "https:\/\/cvio.bslthemes.com\/ve1\/wp-json\/contact-form-7\/v1",
     "namespace": "contact-form-7\/v1"
   }
 };
@@ -9747,8 +9743,8 @@ var wpcf7 = {
   return Isotope;
 }));
 /*!
- * simpleParallax - simpleParallax is a simple JavaScript library that gives your website parallax animations on any images, 
- * @date: 13-06-2019 16:24:29, 
+ * simpleParallax - simpleParallax is a simple JavaScript library that gives your website parallax animations on any images,
+ * @date: 13-06-2019 16:24:29,
  * @version: 5.1.0,
  * @link: https://simpleparallax.com/
  */
@@ -16448,7 +16444,7 @@ function initMap() {
       }()
   }(), I.ui.position
 });
-/*! dialogs-manager v4.8.1 | (c) Kobi Zaltzberg | https://github.com/kobizz/dialogs-manager/blob/master/LICENSE.txt 
+/*! dialogs-manager v4.8.1 | (c) Kobi Zaltzberg | https://github.com/kobizz/dialogs-manager/blob/master/LICENSE.txt
  2020-08-17 18:55 */
 ! function(a, b) {
   "use strict";
@@ -17277,9 +17273,7 @@ var elementorFrontendConfig = {
   "legacyMode": {
     "elementWrappers": true
   },
-  "urls": {
-    "assets": "https:\/\/cvio.bslthemes.com\/ve1\/wp-content\/plugins\/elementor\/assets\/"
-  },
+
   "settings": {
     "page": [],
     "editorPreferences": []
@@ -17292,12 +17286,6 @@ var elementorFrontendConfig = {
     "lightbox_enable_share": "yes",
     "lightbox_title_src": "title",
     "lightbox_description_src": "description"
-  },
-  "post": {
-    "id": 568,
-    "title": "Contacts%20Creative%20%28Elementor%29%20%E2%80%93%20Cvio%20%E2%80%93%20CV%20Resume%20WordPress%20Theme",
-    "excerpt": "",
-    "featuredImage": false
   }
 };
 /*! elementor - v3.0.14 - 25-11-2020 */
