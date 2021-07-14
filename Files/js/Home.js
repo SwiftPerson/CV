@@ -3,9 +3,7 @@ window._wpemojiSettings = {
   "ext": ".png",
   "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/",
   "svgExt": ".svg",
-  "source": {
-    "concatemoji": "https:\/\/cvio.bslthemes.com\/ve1\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"
-  }
+
 };
 ! function(e, a, t) {
   var r, n, o, i, p = a.createElement("canvas"),
@@ -258,7 +256,6 @@ window._wpemojiSettings = {
 })(jQuery);
 var wpcf7 = {
   "apiSettings": {
-    "root": "https:\/\/cvio.bslthemes.com\/ve1\/wp-json\/contact-form-7\/v1",
     "namespace": "contact-form-7\/v1"
   }
 };
@@ -17277,9 +17274,6 @@ var elementorFrontendConfig = {
   "legacyMode": {
     "elementWrappers": true
   },
-  "urls": {
-    "assets": "https:\/\/cvio.bslthemes.com\/ve1\/wp-content\/plugins\/elementor\/assets\/"
-  },
   "settings": {
     "page": [],
     "editorPreferences": []
@@ -17295,12 +17289,10 @@ var elementorFrontendConfig = {
   },
   "post": {
     "id": 510,
-    "title": "Cvio%20%E2%80%93%20CV%20Resume%20WordPress%20Theme%20%E2%80%93%20Just%20another%20WordPress%20site",
     "excerpt": "",
     "featuredImage": false
   }
 };
-/*! elementor - v3.0.14 - 25-11-2020 */
 ! function(e) {
   var t = {};
 
